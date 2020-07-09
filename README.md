@@ -7,6 +7,7 @@ I'm a Front end Developer, based in the sunny Barcelona, Spain. Currently workin
 - 🌱 Lately playing around with Firebase
 - 💟 UI/UX designer lover
 - 👌 Fan of TailwindCSS
+- 🤷 Not a fan of 🍝
 <!--
 **duverj/duverj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
