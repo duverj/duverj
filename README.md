@@ -1,5 +1,12 @@
-### Hi there 👋
+## Hi there, I'm Duver 🤓
 
+I'm a Front end Developer, based in the sunny Barcelona, Spain. Currently working for XXXLDigital.
+
+🌱 Currently learning React
+🌱 Constantly learning JS
+🌱 Lately playing around with Firebase
+💟 UI/UX designer lover
+👌 Fan of TailwindCSS
 <!--
 **duverj/duverj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
