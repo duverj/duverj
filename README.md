@@ -5,7 +5,7 @@ I'm a Front end Developer, based in the sunny Barcelona, Spain. Currently workin
 - 🌱 Currently learning React
 - 🌱 Constantly learning JS
 - 🌱 Lately playing around with Firebase
-- 💟 UI/UX designer lover
+- 💟 UI/UX design lover
 - 👌 Fan of TailwindCSS
 - 🤷 Not a fan of 🍝
 <!--
