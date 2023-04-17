@@ -2,12 +2,11 @@
 
 I'm a Front end Developer, based in the sunny Barcelona, Spain. Currently working for XXXLDigital.
 
-- 🌱 Currently learning React
+- 🌱 Currently learning TS
 - 🌱 Constantly learning JS
-- 🔥 Lately playing around with Firebase
+- 🔥 Lately playing around with Supabase and RemixRun
 - 💟 UI/UX design lover
 - 👌 Fan of TailwindCSS
-- 🤷 ~~Not~~ a fan of 🍝 (went to Italy and changed my mind)
 
 <br />
 
