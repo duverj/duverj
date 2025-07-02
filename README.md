@@ -4,7 +4,6 @@ I'm a Front end Developer, based in the sunny Barcelona, Spain. Currently workin
 
 - 🌱 Currently learning TS
 - 🌱 Constantly learning JS
-- 🔥 Lately playing around with Supabase and RemixRun
 - 💟 UI/UX design lover
 - 👌 Fan of TailwindCSS
 
