@@ -2,8 +2,6 @@
 
 I'm a Front end Developer, based in the sunny Barcelona, Spain. Currently working for XXXLDigital.
 
-- 🌱 Currently learning TS
-- 🌱 Constantly learning JS
 - 💟 UI/UX design lover
 - 👌 Fan of TailwindCSS
 
