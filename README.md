@@ -4,6 +4,7 @@ I'm a Front end Developer, based in the sunny Barcelona, Spain. Currently workin
 
 - 💟 UI/UX design lover
 - 👌 Fan of TailwindCSS
+- AIng things around
 
 <br />
 
